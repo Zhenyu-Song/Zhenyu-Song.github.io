@@ -47,7 +47,7 @@ Shen Han, Haitao Fu, Yuyang Wu, Ganglan Zhao, **Zhenyu Song**, Feng Huang, Zhong
 - *2024.09 - 2027.06 (anticipated)*, Master, National University of Defense Technology.
 - *2020.09 - 2024.06 (now)*, Undergraduate, Huazhong Agricultural University.
 
-{%
+
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-%}
+- *2023.05 - 2023.06*, Hunan Branch, China Telecom Digital Intelligence Technology Co.,Ltd.
+
