@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate in the College of Informatics at Huazhong Agricultural University (HZAU), under the supervision of Prof. Wen Zhang. I am going to pursue a master’s degree at National University of Defense Technology this Fall. If you are interested, please feel free to contact me: songzhenyu@webmail.hzau.edu.cn | songzhenyu0416@gmail.com.
+I am a senior undergraduate in the College of Informatics at Huazhong Agricultural University (HZAU), under the supervision of Prof. Wen Zhang. I am going to pursue a master’s degree at National University of Defense Technology this Fall. If you are interested, please feel free to contact me: [songzhenyu@webmail.hzau.edu.cn](songzhenyu@webmail.hzau.edu.cn) or [songzhenyu0416@gmail.com](songzhenyu0416@gmail.com).
 
 My research interests include Machine Learning, Graph Neural Network(GNN) and Bioinformatics.
  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
