@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate in the College of Informatics at Huazhong Agricultural University (HZAU), under the supervision of Prof. Wen Zhang. I am going to pursue a master’s degree at National University of Defense Technology this Fall. If you are interested, please feel free to contact me: [songzhenyu@webmail.hzau.edu.cn](songzhenyu@webmail.hzau.edu.cn) or [songzhenyu0416@gmail.com](songzhenyu0416@gmail.com).
+I am a master's student in the College of Systems Engineering at [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT). If you are interested, please feel free to contact me: [songzhenyu@nudt.edu.cn](songzhenyu@nudt.edu.cn) or [songzhenyu0416@gmail.com](songzhenyu0416@gmail.com).
 
 My research interests include Machine Learning, Graph Neural Network(GNN) and Bioinformatics.
  <a href='https://scholar.google.com/citations?user=AENYwLoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by [BigDIA 2024](https://2024.bigdia.org/). 
 - *2023.08*: &nbsp;🎉🎉 One paper is published in Briefings in Bioinformatics. 
 
 # 📝 Publications 
@@ -40,12 +41,13 @@ Shen Han, Haitao Fu, Yuyang Wu, Ganglan Zhao, **Zhenyu Song**, Feng Huang, Zhong
 </div>
 
 # 🎖 Honors and Awards
+- *2023-2024*, Outstanding Undergraduate.
 - *2022-2023*, Merit Student. 
-- *2021-2022*, Merit Student, Academic excellence Award. 
+- *2021-2022*, Merit Student, Academic Excellence Award. 
 
 # 📖 Educations
 - *2024.09 - 2027.06 (anticipated)*, Master, National University of Defense Technology.
-- *2020.09 - 2024.06 (now)*, Undergraduate, Huazhong Agricultural University.
+- *2020.09 - 2024.06*, Undergraduate, Huazhong Agricultural University (Graduated with Honors).
 
 
 # 💻 Internships
