@@ -28,7 +28,7 @@ My research interests include Machine Learning, Graph Neural Networks(GNN) and B
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics(BIB)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics(BIB)</div><img src='images/pic_himgnn.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HimGNN: a novel hierarchical molecular graph representation learning framework for property prediction](https://academic.oup.com/bib/article/24/5/bbad305/7245716)
