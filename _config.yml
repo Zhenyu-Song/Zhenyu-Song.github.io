@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenyu Song"
-description              : "Undergraduate at HZAU, majoring in Data Science and Big Data Technology. Focusing on ML research."
+description              : "Master's student at NUDT, Focusing on ML research."
 repository               : "Zhenyu-Song/Zhenyu-Song.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhenyu Song(宋震宇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong Agricultural University(HZAU)"
-  location         : "Wuhan, China"
+  bio              : "National University of Defence Technology"
+  location         : "Changsha, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AENYwLoAAAAJ"
-  email            : "songzhenyu@webmail.hzau.edu.cn"
+  email            : "songzhenyu@nudt.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
