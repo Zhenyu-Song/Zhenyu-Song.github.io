@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student in the College of Systems Engineering at [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT). If you are interested, please feel free to contact me: [songzhenyu@nudt.edu.cn](songzhenyu@nudt.edu.cn) or [songzhenyu0416@gmail.com](songzhenyu0416@gmail.com).
+I am a master's student in the [Laboratory for Big Data and Decision](https://d2.nudt.edu.cn/), College of Systems Engineering at [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT). If you are interested, please feel free to contact me: [songzhenyu@nudt.edu.cn](songzhenyu@nudt.edu.cn) or [songzhenyu0416@gmail.com](songzhenyu0416@gmail.com).
 
-My research interests include Machine Learning, Graph Neural Network(GNN) and Bioinformatics.
- <a href='https://scholar.google.com/citations?user=AENYwLoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests include Machine Learning, Graph Neural Networks(GNN) and Bioinformatics.
 
 
 # 🔥 News
