@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year master's student in the College of Systems Engineering at [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), currently working in the [Laboratory for Big Data and Decision](https://d2.nudt.edu.cn/). Before that, I obtained a Bachelor's degree from Huazhong Agricultural University. If you are interested, please feel free to contact me: [songzhenyu@nudt.edu.cn](mailto:songzhenyu@nudt.edu.cn) or [songzhenyu0416@gmail.com](mailto:songzhenyu0416@gmail.com).
+I am a second-year master's student in the College of Systems Engineering at [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), currently studying in the [Laboratory for Big Data and Decision](https://d2.nudt.edu.cn/). Before that, I obtained a Bachelor's degree from Huazhong Agricultural University. If you are interested, please feel free to contact me: [songzhenyu@nudt.edu.cn](mailto:songzhenyu@nudt.edu.cn) or [songzhenyu0416@gmail.com](mailto:songzhenyu0416@gmail.com).
 
-My research interests include Machine Learning, Graph Neural Networks(GNN) and Bioinformatics.
+My research interests include NLP, Information Extraction and Event Understanding.
 
 
 # 🔥 News
